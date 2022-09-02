@@ -7,12 +7,12 @@
 			<div class='card  mx-auto'>
 				<div class='card-body col-md-5 mx-auto'>
 					<div class=' row from-group'>
-						<label for='cid' class='la'>Enter Customer Id</label>
+						<label for='cid' class='la'>Enter Customer Id<span>*</span></label>
 						<input type="text" name="cid" class='form-control' required>
 					</div>					
 			
 					<div class='col-md-4 mx-auto dv' align="right" >
-						<button class='btn btn-primary'>Delete<span>*</span></button>
+						<button class='btn btn-primary'>Delete</button>
 					</div>
 				</div>
 			</div>
